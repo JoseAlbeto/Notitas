@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotasMultimedia</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="agregar">Agregar</string>
+    <string name="galeria">Imagen_Galeria</string>
+    <string name="camara">Camara</string>
+    <string name="fotos">Camara</string>
+    <string name="video">Video</string>
+    <string name="button">Galeria</string>
+    <string name="videoGale">Video_Galeria</string>
+
+</resources>
